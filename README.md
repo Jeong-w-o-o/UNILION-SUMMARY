@@ -5,9 +5,9 @@ LikeLion 8th
 
 ## 1학기 커리큘럼
 
-### Github&배포
+### Github & 배포
 
-Github&배포_1 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_1.md)]**<br/>
+Github 기초 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_1.md)]**<br/>
 Github&배포_2 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_2.md)]**<br/>
 Github&배포_3 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_3.md)]**<br/>
 Github&배포_4 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_4.md)]**<br/>
