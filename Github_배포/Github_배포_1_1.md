@@ -12,7 +12,7 @@ git remote add origin 레포지토리 주소
 ```
 모든 걸 추가하기
 ```phyton
-git add.
+git add .
 ```
 commit 내용 설명
 ```phyton
