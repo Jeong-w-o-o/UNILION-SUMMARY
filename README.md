@@ -9,7 +9,7 @@ LikeLion 8th
 
 Github 기초 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_1.md)]**<br/>
 Netlify를 이용한 배포 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_2.md)]**<br/>
-Github& 협업 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_3.md)]**<br/>
+Github & 협업 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_3.md)]**<br/>
 EB 배포 1 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_4.md)]**<br/>
 EB 배포 2 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_5.md)]**<br/>
 EB 배포 3 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/Github_%EB%B0%B0%ED%8F%AC/Github_%EB%B0%B0%ED%8F%AC_1_6.md)]**<br/>
