@@ -16,14 +16,14 @@ EB 배포 3 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/mast
 
 ### 마스크 알리미
 
- **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_1.md)]**<br/>
-마스크 알리미_2 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_2.md)]**<br/>
-마스크 알리미_3 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_3.md)]**<br/>
-마스크 알리미_4 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_4.md)]**<br/>
-마스크 알리미_5 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_5.md)]**<br/>
-마스크 알리미_6 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_6.md)]**<br/>
-마스크 알리미_7 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_7.md)]**<br/>
-마스크 알리미_8 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_8.md)]**<br/>
+강의 들어가기 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_1.md)]**<br/>
+HTTP, JSON, API 개념 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_2.md)]**<br/>
+Postman 실습, 공적 마스크 API 살펴보기 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_3.md)]**<br/>
+Javascript 기초 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_4.md)]**<br/>
+Fetch API **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_5.md)]**<br/>
+메인 화면 UI 작업 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_6.md)]**<br/>
+메인 화면 기능 구현 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_7.md)]**<br/>
+시작 화면 UI 및 기능 구현 **[[요약](https://github.com/Jeong-w-o-o/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_8.md)]**<br/>
 
 ### 드리머리
 
